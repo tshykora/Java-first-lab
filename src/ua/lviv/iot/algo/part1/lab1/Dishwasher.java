@@ -1,5 +1,4 @@
 package ua.lviv.iot.algo.part1.lab1;
-import java.util.ArrayList;
 
 import lombok.Getter;
 import lombok.Setter;
